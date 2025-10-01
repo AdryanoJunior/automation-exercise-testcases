@@ -1,0 +1,10 @@
+{
+    "userSuccess": {
+        "username": "TestingQA5@gmail.com",
+        "password": "Test12345$"
+    },
+    "userFail": {
+        "username": "userfail@test.com",
+        "password": "test123"
+    }
+}
